@@ -1,2 +1,7 @@
-# visual-place-recognition
-Course project on recognizing urban locations from photos using Vision Transformers when GPS is unavailable.
+# Visual Place Recognition
+
+Курсовой проект по распознаванию места в городской среде по фотографии с помощью визуальных трансформеров (Vision Transformers).
+
+Цель работы — оценить, насколько точно модель может определить, где сделан снимок, когда данные GPS недоступны. Модель будет сопоставлять снимок с базой эталонных фотографий известных мест.
+
+Эксперименты планируется провести на открытых бенчмарках. Код проекта будет написан на Python.
